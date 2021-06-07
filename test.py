@@ -13,4 +13,3 @@ class TestCase:
 
     def test_div_l(self):
         assert 5 == calculator.div(25, 5)
-
